@@ -1,6 +1,6 @@
 # Hi, I'm Yash Choudhary 👋
 
-### Junior Full Stack Developer | MERN Stack | REST APIs | Application Troubleshooting
+### Junior Full Stack Developer | MERN Stack | Associate Software Engineer| REST APIs | Application Troubleshooting
 
 B.Tech Computer Science graduate focused on building practical web applications using **JavaScript, React.js, Node.js, Express.js, MongoDB and MySQL**.
 
